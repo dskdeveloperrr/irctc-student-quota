@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "trainName": "Tamilnadu Exp",
+    "trainNumber": "12622",
+    "from": "NDLS",
+    "to": "MAS",
+    "classes": {
+      "SL": { 
+        "total": 80, 
+        "student": 12, 
+        "baseFare": 600, 
+        "tatkal": 200 
+      },
+      "3A": { 
+        "total": 72, 
+        "student": 16, 
+        "baseFare": 1800, 
+        "tatkal": 400 
+      },
+      "2A": { 
+        "total": 48, 
+        "student": 6, 
+        "baseFare": 3000, 
+        "tatkal": 500 
+      },
+      "1A": { 
+        "total": 24, 
+        "student": 2, 
+        "baseFare": 5000, 
+        "tatkal": 0 
+      }
+    }
+  }
+]
