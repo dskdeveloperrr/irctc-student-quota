@@ -1,35 +1,7 @@
 [
-  {
-    "id": 1,
-    "trainName": "Tamilnadu Exp",
-    "trainNumber": "12622",
-    "from": "NDLS",
-    "to": "MAS",
-    "classes": {
-      "SL": { 
-        "total": 80, 
-        "student": 12, 
-        "baseFare": 600, 
-        "tatkal": 200 
-      },
-      "3A": { 
-        "total": 72, 
-        "student": 16, 
-        "baseFare": 1800, 
-        "tatkal": 400 
-      },
-      "2A": { 
-        "total": 48, 
-        "student": 6, 
-        "baseFare": 3000, 
-        "tatkal": 500 
-      },
-      "1A": { 
-        "total": 24, 
-        "student": 2, 
-        "baseFare": 5000, 
-        "tatkal": 0 
-      }
-    }
-  }
+  { "id": 1, "trainName": "TAMILNADU EXP", "trainNumber": "12622", "from": "NDLS", "to": "MAS", "baseFare": 800, "classes": ["SL", "3A", "2A", "1A"] },
+  { "id": 2, "trainName": "RAJDAHNI EXP", "trainNumber": "12431", "from": "NDLS", "to": "BCT", "baseFare": 2100, "classes": ["3A", "2A", "1A"] },
+  { "id": 3, "trainName": "SHATABDI EXP", "trainNumber": "12002", "from": "NDLS", "to": "BPL", "baseFare": 1200, "classes": ["CC", "EC"] },
+  { "id": 4, "trainName": "GARIBRATH", "trainNumber": "12611", "from": "MAS", "to": "NZM", "baseFare": 600, "classes": ["3A"] },
+  { "id": 5, "trainName": "KANYAKUMARI EXP", "trainNumber": "12633", "from": "MS", "to": "CAPE", "baseFare": 500, "classes": ["SL", "3A", "2A"] }
 ]
